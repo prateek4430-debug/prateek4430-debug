@@ -15,8 +15,8 @@ and how to build real-world projects that solve meaningful problems.
 - 🌐 Grow my professional digital presence
 
 ## Connect With Me
-- LinkedIn:https://www.linkedin.com/in/prateek-bharadwaj-b8737b3b9/
-- Course: CSE0001 – Digital Literacy | VIT Bhopal
+- LinkedIn:www.linkedin.com/in/prateek-bharadwaj-354701413
+
 
 <!--
 **prateek4430-debug/prateek4430-debug** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
